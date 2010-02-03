@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luolei/code/crawler/component/DNS_Resolver/../.././util/RabinHash/rabinhash64.h
+
+/home/luolei/code/crawler/component/DNS_Resolver/../../global.h
+sstream
+-
+vector
+-
+./util/RabinHash/rabinhash64.h
+/home/luolei/code/crawler/component/DNS_Resolver/../.././util/RabinHash/rabinhash64.h
+
+/home/luolei/code/crawler/component/DNS_Resolver/TinyDNSResolver.cpp
+TinyDNSResolver.h
+/home/luolei/code/crawler/component/DNS_Resolver/TinyDNSResolver.h
+iostream
+-
+netinet/in.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+string.h
+-
+errno.h
+-
+time.h
+-
+stdlib.h
+-
+
+/home/luolei/code/crawler/component/DNS_Resolver/TinyDNSResolver.h
+../../global.h
+/home/luolei/code/crawler/component/DNS_Resolver/../../global.h
+iostream
+-
+

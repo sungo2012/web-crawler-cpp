@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luolei/code/crawler/util/lru/Basic_LRU.cpp
+Basic_LRU.h
+/home/luolei/code/crawler/util/lru/Basic_LRU.h
+
+/home/luolei/code/crawler/util/lru/Basic_LRU.h
+iostream
+-
+

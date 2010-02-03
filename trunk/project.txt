@@ -1,0 +1,81 @@
+Crawler Project=~/code/crawler CD=. {
+ crawler.cpp
+ global.cpp
+ project.txt
+ urlseed.txt
+ global.h
+  component=component {
+   ContentSeen=ContentSeen {
+   ContentSeen.cpp
+   ContentSeen.h
+   }
+   LinkExtractor=LinkExtractor {
+   LinkExtractor.cpp
+   LinkExtractor.h
+   }
+   ris=ris {
+   ris.cpp
+   ris.h
+   }
+   URLFrontier=URLFrontier {
+   URLFrontier.cpp
+   URLFrontier.h
+   }
+   Writer=Writer {
+   Writer.cpp
+   Writer.h
+   }
+   DNS=DNS_Resolver {
+   TinyDNSResolver.cpp
+   TinyDNSResolver.h
+   }
+   protocolModule=protocolModule {	
+   HttpModule.cpp
+   HttpModule.h
+   protocolBaseModule.h
+   }
+   URLFilter=URLFileter {
+   URLFilter.cpp
+   URLFilter.h
+   }
+   URLSeen=URLSeen {
+   URLSeen.cpp
+   URLSeen.h
+   }
+  }
+ util=util {
+  btree-f=btree-f {
+   btmake.cpp
+   btread.cpp
+   btree.cpp
+   btree.h
+   itemtype.h
+   table.h
+  }
+  btree-m=btree-m {
+   avl_ex1.cpp
+   avl_tree.h
+  }
+  lru=lru {
+   Basic_LRU.cpp
+   Basic_LRU.h
+  }
+  RabinHash=RabinHash {
+   rabinhash64.cpp
+   rabinhash64.h
+  }
+  rio=rio {
+   rio.cpp
+   rio.h
+  }
+  rwlock_fcfs=rwlock_fcfs {
+   queue.c
+   rwlock.c
+   testtest.cpp
+  }
+  thread_print=thread_print {
+   thread_print.cpp
+   thread_print.h
+  }
+ }
+}

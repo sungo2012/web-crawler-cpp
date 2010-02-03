@@ -1,0 +1,2 @@
+/usr/bin/ar cr libLinkExtractor.a  CMakeFiles/LinkExtractor.dir/LinkExtractor.cpp.o
+/usr/bin/ranlib libLinkExtractor.a

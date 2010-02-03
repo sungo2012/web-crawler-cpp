@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luolei/code/crawler/component/LinkExtractor/../.././util/RabinHash/rabinhash64.h
+
+/home/luolei/code/crawler/component/LinkExtractor/../../global.h
+sstream
+-
+vector
+-
+./util/RabinHash/rabinhash64.h
+/home/luolei/code/crawler/component/LinkExtractor/../.././util/RabinHash/rabinhash64.h
+
+/home/luolei/code/crawler/component/LinkExtractor/LinkExtractor.cpp
+LinkExtractor.h
+/home/luolei/code/crawler/component/LinkExtractor/LinkExtractor.h
+string.h
+-
+stdlib.h
+-
+algorithm
+-
+iostream
+-
+cstdio
+-
+
+/home/luolei/code/crawler/component/LinkExtractor/LinkExtractor.h
+regex.h
+-
+../../global.h
+/home/luolei/code/crawler/component/LinkExtractor/../../global.h
+

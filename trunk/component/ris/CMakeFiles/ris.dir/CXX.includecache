@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luolei/code/crawler/component/ris/./../.././util/RabinHash/rabinhash64.h
+
+/home/luolei/code/crawler/component/ris/./../../global.h
+sstream
+-
+vector
+-
+./util/RabinHash/rabinhash64.h
+/home/luolei/code/crawler/component/ris/./../.././util/RabinHash/rabinhash64.h
+
+/home/luolei/code/crawler/component/ris/./ris.h
+../../global.h
+/home/luolei/code/crawler/component/ris/./../../global.h
+string.h
+-
+
+/home/luolei/code/crawler/component/ris/ris.cpp
+./ris.h
+/home/luolei/code/crawler/component/ris/./ris.h
+

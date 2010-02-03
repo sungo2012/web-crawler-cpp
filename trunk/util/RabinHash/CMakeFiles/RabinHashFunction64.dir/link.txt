@@ -1,0 +1,2 @@
+/usr/bin/ar cr libRabinHashFunction64.a  CMakeFiles/RabinHashFunction64.dir/rabinhash64.cpp.o
+/usr/bin/ranlib libRabinHashFunction64.a

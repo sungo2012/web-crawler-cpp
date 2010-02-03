@@ -1,0 +1,2 @@
+/usr/bin/ar cr libContentSeen.a  CMakeFiles/ContentSeen.dir/ContentSeen.cpp.o
+/usr/bin/ranlib libContentSeen.a
