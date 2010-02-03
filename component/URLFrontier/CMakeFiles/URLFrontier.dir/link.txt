@@ -1,0 +1,2 @@
+/usr/bin/ar cr libURLFrontier.a  CMakeFiles/URLFrontier.dir/URLFrontier.cpp.o
+/usr/bin/ranlib libURLFrontier.a

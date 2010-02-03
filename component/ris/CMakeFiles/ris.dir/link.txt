@@ -1,0 +1,2 @@
+/usr/bin/ar cr libris.a  CMakeFiles/ris.dir/ris.cpp.o
+/usr/bin/ranlib libris.a

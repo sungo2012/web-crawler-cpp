@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luolei/code/crawler/util/thread_print/thread_print.cpp
+thread_print.h
+/home/luolei/code/crawler/util/thread_print/thread_print.h
+stdarg.h
+-
+sstream
+-
+stdlib.h
+-
+errno.h
+-
+string.h
+-
+
+/home/luolei/code/crawler/util/thread_print/thread_print.h
+iostream
+-
+stdio.h
+-
+string
+-
+string.h
+-
+fstream
+-
+

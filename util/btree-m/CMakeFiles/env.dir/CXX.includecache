@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luolei/code/crawler/util/btree-m/avl_ex1.cpp
+string.h
+-
+stdio.h
+-
+queue
+-
+avl_tree.h
+/home/luolei/code/crawler/util/btree-m/avl_tree.h
+
+/home/luolei/code/crawler/util/btree-m/avl_tree.h
+bitset
+/home/luolei/code/crawler/util/btree-m/bitset
+

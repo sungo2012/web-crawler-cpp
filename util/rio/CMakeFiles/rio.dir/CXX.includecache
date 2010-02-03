@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luolei/code/crawler/util/rio/../.././util/RabinHash/rabinhash64.h
+
+/home/luolei/code/crawler/util/rio/../../global.h
+sstream
+-
+vector
+-
+./util/RabinHash/rabinhash64.h
+/home/luolei/code/crawler/util/rio/../.././util/RabinHash/rabinhash64.h
+
+/home/luolei/code/crawler/util/rio/./rio.h
+unistd.h
+-
+errno.h
+-
+
+/home/luolei/code/crawler/util/rio/rio.cpp
+./rio.h
+/home/luolei/code/crawler/util/rio/./rio.h
+../../global.h
+/home/luolei/code/crawler/util/rio/../../global.h
+iostream
+-
+string.h
+-
+netinet/in.h
+-
+

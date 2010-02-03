@@ -1,0 +1,2 @@
+/usr/bin/ar cr libenv.a  CMakeFiles/env.dir/avl_ex1.cpp.o
+/usr/bin/ranlib libenv.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libBTTableClass.a  CMakeFiles/BTTableClass.dir/btmake.cpp.o CMakeFiles/BTTableClass.dir/btread.cpp.o CMakeFiles/BTTableClass.dir/btree.cpp.o
+/usr/bin/ranlib libBTTableClass.a

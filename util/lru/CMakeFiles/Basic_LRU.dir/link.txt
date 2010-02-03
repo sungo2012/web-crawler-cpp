@@ -1,0 +1,2 @@
+/usr/bin/ar cr libBasic_LRU.a  CMakeFiles/Basic_LRU.dir/Basic_LRU.cpp.o
+/usr/bin/ranlib libBasic_LRU.a

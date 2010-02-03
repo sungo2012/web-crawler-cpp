@@ -1,0 +1,2 @@
+/usr/bin/ar cr librio.a  CMakeFiles/rio.dir/rio.cpp.o
+/usr/bin/ranlib librio.a

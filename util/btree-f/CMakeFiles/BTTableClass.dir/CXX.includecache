@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luolei/code/crawler/util/btree-f/btmake.cpp
+btree.h
+/home/luolei/code/crawler/util/btree-f/btree.h
+stdlib.h
+-
+
+/home/luolei/code/crawler/util/btree-f/btread.cpp
+btree.h
+/home/luolei/code/crawler/util/btree-f/btree.h
+
+/home/luolei/code/crawler/util/btree-f/btree.cpp
+btree.h
+/home/luolei/code/crawler/util/btree-f/btree.h
+string.h
+-
+stdlib.h
+-
+
+/home/luolei/code/crawler/util/btree-f/btree.h
+table.h
+/home/luolei/code/crawler/util/btree-f/table.h
+
+/home/luolei/code/crawler/util/btree-f/itemtype.h
+iostream
+-
+fstream
+-
+
+/home/luolei/code/crawler/util/btree-f/table.h
+itemtype.h
+/home/luolei/code/crawler/util/btree-f/itemtype.h
+

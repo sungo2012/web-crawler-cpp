@@ -1,0 +1,2 @@
+/usr/bin/ar cr libThread_print.a  CMakeFiles/Thread_print.dir/thread_print.cpp.o
+/usr/bin/ranlib libThread_print.a

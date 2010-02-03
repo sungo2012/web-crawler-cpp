@@ -1,0 +1,2 @@
+/usr/bin/ar cr libURLFilter.a  CMakeFiles/URLFilter.dir/URLFilter.cpp.o
+/usr/bin/ranlib libURLFilter.a

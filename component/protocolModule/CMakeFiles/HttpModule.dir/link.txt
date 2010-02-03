@@ -1,0 +1,2 @@
+/usr/bin/ar cr libHttpModule.a  CMakeFiles/HttpModule.dir/HttpModule.cpp.o
+/usr/bin/ranlib libHttpModule.a
